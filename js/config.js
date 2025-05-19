@@ -165,28 +165,17 @@ var l_messagesEnabled = true;
 // Enter your custom messages below
 var l_messages = [
 	"Staff ALWAYS have the final say; if they tell you to stop- you got to stop. Otherwise, you can/will be warned!",
-	"Do not attempt/say you are going to DDOS/crash the server. - Don't walk up to somebody and say I'm going to DDOS this fucking stupid server as a joke, it will be taken seriously and you will be permabanned!",
-	"Please use common sense when being active and chatting on the server. Don't encourage people to break rules, don't spam staff, etc. Use your brain!",
-        "Abide by the New Life Rule (NLR). You have to wait 3 minutes until you can go back to the location where you died. This applies to conflict as well!",
-	"Don't say anything that could possibly hurt others (racial slurs, general slurs, etc!",
-	"Your privacy is safe with us. We do not collect your privacy to use it against you, and we don't collect your information at all. We also do not sell your information to anyone!",
-	"Your donation status does not change the fact that you are a member of our community. You are not above our rules or anything else for that matter. You still have to follow our guidelines!",
-	"Please do not abuse any tools! The more abuse they get, the more limited it gets for everyone!",
-	"Users with the exiled status have earned it for going above and beyond to receive multiple bans within our communities and/or having tried to lodge a dispute or even try to chargeback (as it's against our policy of refunds). Being exiled makes you an outcast Users who were exiled are not to be mentioned within the community!",
-	"We do not provide refunds for donations or packages such as VIP, PAC3 Access, etc. There are no change-of-mind refunds on sale items. AN does not have a contractual obligation to provide donation packages. Donation packages can be revoked, and art subjects can be changed!",
-	"Please do not abuse any tools! The more abuse they get, the more limited it gets for everyone!",
-	"It Is forbidden to attack with a splash through props, walls, outside the territory of the pizzeria. It is also forbidden to intentionally attack animatronics and plush toys while outside the territory of the pizzeria. It is forbidden to climb stairs (excl. Purple Guy in the guise of a security guard. Punishment: warn / Ban 10-20min!",
-        "It is forbidden to Prop Abuse, Fly on a prop / object, or to Lift, push someone, spam with a prop / object, as well as climb props that do not obey the laws of physics (you CAN build stairs) and build non-physical structures. It is also forbidden to build near the fountain and in the pizzeria. [Punishment: warn / Ban 10-20min!",
-        "Using offensive humor is NOT okay. With everything going on, with racism and other problems around the world, we (as staff) will be more strict if we need to be!",
-        "DDoS or the publicizing of other member's private information (DOX) will result in a permanent ban. (This includes all/any hacking threats!",
-	"Do NOT abuse props in any way, shape, or form. (prop-blocking, prop-killing, prop-bridging, and prop-spamming!",
-	"Accidentally killing someone (crossfire) is not RDM unless on purpose; if someone does walk in the way, that is allowed as long as you repay them.  This rule also applies toaccidentallyy running someone over!",
-	"No metagaming or trying to take advantage in-game. It ruins the fun for those who take roleplaying seriously!",
-	"No RDM, MRDM, VDM, etc. (Random Death Match, Mass Random Death Match, Vehicle Death Match, etc!",
-	"No metagaming or trying to take advantage in-game. It ruins the fun for those who take roleplaying seriously!",
-	"Do not abuse props in any way, shape, or form. (prop-blocking, prop-killing, prop-bridging, and prop-spamming!",
-	"Any violations within these rules will have our loyal fellow mods give you a warning, if you continue to violate the rules it will result in a kick out or if major, banned. So pls, try not to cause trouble. Have a good day!",
-        "Breaking NLR constitutes as returning to the place of your death within or before five minutes of your death. This can also mean returning and/or interacting with the player that killed you. If you are found breaking this rule, it’ll be dealt with by a Verbal Warn, Warn or Ban for repeat offenders. Returning to the vicinity of your base to watch the raiders (even if you aren’t interacting with them) counts as breaking NLR — don’t do it!"
+	"Staff members have the final say. If you feel something was unfair, appeal respectfully through the proper channels!",
+	"Failure to follow these rules will result in an appealable ban, on your second ban you can not appeal!",
+	"Racial slurs, homophobic comments, or any other offensive remarks are prohibited according to the rules. Staff have the final authority to determine what is permissible!",
+	"No offending topics that can cause drama (Religion, Politics, Sports, etc!",
+	"DDoS or the publicizing of other member's private information (DOX) will result in a permanent ban. (This includes all/any hacking threats!",
+	"Sending any NSFW, Gore, Racist, Queerphobic or etcetera messages this will result in a permanent NOT APPEALABLE ban!",
+	"Raiding the server is against our terms of service. Any attempt to circumvent or bypass them can result in a permanent ban. As well as putting everyone in different chats with only trusted people, if you get cought raiding, that's an insta ban!",
+	"Recording is allowed on the server, so by playing here, you might just find yourself starring in someone else's videos!",
+	"Oh, any violations of these oh-so-important rules will have our incredibly loyal mods give you a gentle warning. Keep it up, and you'll be kicked out—or if it's something really bad, banned. So, pretty please, don't cause any trouble. Have a nice day!",
+	"Press f1 to toggle third-person camera on and off Press f2 to access the shop Press f3 to access your profile information with season and leaderboard information. Press f5 to take a screenshot Press f7 to show the emote wheel!",
+        "Feel free to ask any of our lovely staff members, they are always open to help. The community is also very helpful as our active player base is very welcoming to new players." If you need this in another language or context, please let me know!"
 
 ];
 
