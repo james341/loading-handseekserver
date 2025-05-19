@@ -175,7 +175,7 @@ var l_messages = [
 	"Recording is allowed on the server, so by playing here, you might just find yourself starring in someone else's videos!",
 	"Oh, any violations of these oh-so-important rules will have our incredibly loyal mods give you a gentle warning. Keep it up, and you'll be kicked out—or if it's something really bad, banned. So, pretty please, don't cause any trouble. Have a nice day!",
 	"Press f1 to toggle third-person camera on and off Press f2 to access the shop Press f3 to access your profile information with season and leaderboard information. Press f5 to take a screenshot Press f7 to show the emote wheel!",
-        "Feel free to ask any of our lovely staff members, they are always open to help. The community is also very helpful as our active player base is very welcoming to new players." If you need this in another language or context, please let me know!"
+        "Feel free to ask any of our lovely staff members, they are always open to help. The community is also very helpful as our active player base is very welcoming to new players If you need this in another language or context, please let me know!"
 
 ];
 
