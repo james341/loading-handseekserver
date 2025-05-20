@@ -148,7 +148,7 @@ var l_musicPlaylist = [
 	{ogg: "snapsonhideawaykbps.ogg", name: "Installation Music"},
 	{ogg: "fnafsbdayecareshit.ogg", name: "Installation Music"},
 	{ogg: "snapsonhideawaykbps.ogg", name: "Installation Music"},
-	{ogg: "snapsonhideawaykbps.ogg", name: "Installation Music"},
+	{ogg: "thepizzeriashitmusicai.ogg", name: "Installation Music"},
 	{ogg: "fnafmoviesongth.ogg", name: "Installation Music"},
 	{ogg: "thefthomer.ogg", name: "【AN】 - Installation Music"},  
 	{ogg: "Incredibleagain.ogg", name: "Installation Music"},
