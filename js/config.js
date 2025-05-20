@@ -142,17 +142,17 @@ var l_musicDisplay = true;
 // (Place the ogg files in the music folder)
 // (You can also use external URL for the ogg files)
 var l_musicPlaylist = [
-	{ogg: "allcouldbesavedhday.ogg", name: "【AN】 - Installation Music"},
-	{ogg: "uapaudiomusic.ogg", name: "【AN】 - Installation Music"},
-	{ogg: "unseenhorrors.ogg", name: "【AN】 - Installation Music"},
-	{ogg: "snapsonhideawaykbps.ogg", name: "【AN】 - Installation Music"},
-	{ogg: "snapsonhideawaykbps.ogg", name: "【AN】 - Installation Music"},
-	{ogg: "snapsonhideawaykbps.ogg", name: "【AN】 - Installation Music"},
-	{ogg: "realfredbearmusic.ogg", name: "【AN】 - Installation Music"},
-	{ogg: "thefthomer.ogg", name: "【AN】 - Installation Music"},
-	{ogg: "instrumentalnotmyself.ogg", name: "【AN】 - Installation Music"},
-	{ogg: "Incredibleagain.ogg", name: "【AN】 - Installation Music"},
-	{ogg: "chocolatelandmusic.ogg", name: "【AN】 - Installation Music"},
+	{ogg: "allcouldbesavedhday.ogg", name: "Installation Music"},
+	{ogg: "sneighbourhood.ogg", name: "Installation Music"},
+	{ogg: "unseenhorrors.ogg", name: "Installation Music"},
+	{ogg: "snapsonhideawaykbps.ogg", name: "Installation Music"},
+	{ogg: "fnafsbdayecareshit.ogg", name: "Installation Music"},
+	{ogg: "snapsonhideawaykbps.ogg", name: "Installation Music"},
+	{ogg: "snapsonhideawaykbps.ogg", name: "Installation Music"},
+	{ogg: "fnafmoviesongth.ogg", name: "Installation Music"},
+	{ogg: "thefthomer.ogg", name: "【AN】 - Installation Music"},  
+	{ogg: "Incredibleagain.ogg", name: "Installation Music"},
+	{ogg: "chocolatelandmusic.ogg", name: "Installation Music"},
 ];
 
 // Random music order?
