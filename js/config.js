@@ -170,10 +170,13 @@ var l_messagesEnabled = true;
 // Enter your custom messages below
 var l_messages = [
 	"Staff ALWAYS have the final say; if they tell you to stop- you got to stop. Otherwise, you can/will be warned!",
+	"Abusing glitches or hacks will result in a warning or ban, depending on the severity of the offense!",
 	"Staff members have the final say. If you feel something was unfair, appeal respectfully through the proper channels!",
 	"Failure to follow these rules will result in an appealable ban, on your second ban you can not appeal!",
+	"No DM advertising or advertising in general chats. (#server-content and #server-clips are exceptions!",
 	"Racial slurs, homophobic comments, or any other offensive remarks are prohibited according to the rules. Staff have the final authority to determine what is permissible!",
-	"No offending topics that can cause drama (Religion, Politics, Sports, etc!",
+	"No abuse of glitches/hacks will result in a warning or ban depending on the severity of the offense!",
+	"Treat all members with respect. Banter is fine, but offensive, hateful, or harassing behavior will not be tolerated!",
 	"DDoS or the publicizing of other member's private information (DOX) will result in a permanent ban. (This includes all/any hacking threats!",
 	"Sending any NSFW, Gore, Racist, Queerphobic or etcetera messages this will result in a permanent NOT APPEALABLE ban!",
 	"Raiding the server is against our terms of service. Any attempt to circumvent or bypass them can result in a permanent ban. As well as putting everyone in different chats with only trusted people, if you get cought raiding, that's an insta ban!",
