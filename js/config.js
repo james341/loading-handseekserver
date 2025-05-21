@@ -145,6 +145,7 @@ var l_musicPlaylist = [
 	{ogg: "allcouldbesavedhday.ogg", name: "Installation Music"},
 	{ogg: "sneighbourhood.ogg", name: "Installation Music"},
 	{ogg: "unseenhorrors.ogg", name: "Installation Music"},
+	{ogg: "fnafsecuritybreachmusic.ogg", name: "Installation Music"},
 	{ogg: "snapsonhideawaykbps.ogg", name: "Installation Music"},
 	{ogg: "fnafsbdayecareshit.ogg", name: "Installation Music"},
 	{ogg: "snapsonhideawaykbps.ogg", name: "Installation Music"},
