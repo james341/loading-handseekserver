@@ -145,7 +145,7 @@ var l_musicPlaylist = [
 	{ogg: "allcouldbesavedhday.ogg", name: "Installation Music"},
 	{ogg: "adventuresajhimitsu.ogg", name: "Installation Music"},
 	{ogg: "sneighbourhood.ogg", name: "Installation Music"},
-	{ogg: "unseenhorrors.ogg", name: "Installation Music"},
+	{ogg: "heldwantedmusic.ogg", name: "Installation Music"},
 	{ogg: "fnafsecuritybreachmusic.ogg", name: "Installation Music"},
 	{ogg: "behindtheslaughteremix.ogg", name: "Installation Music"},
 	{ogg: "snapsonhideawaykbps.ogg", name: "Installation Music"},
@@ -153,7 +153,7 @@ var l_musicPlaylist = [
 	{ogg: "snapsonhideawaykbps.ogg", name: "Installation Music"},
 	{ogg: "thepizzeriashitmusicai.ogg", name: "Installation Music"},
 	{ogg: "fnafmoviesongth.ogg", name: "Installation Music"},
-	{ogg: "thefthomer.ogg", name: "Installation Music"},  
+	{ogg: "notime.ogg", name: "Installation Music"},  
 	{ogg: "Incredibleagain.ogg", name: "Installation Music"},
 	{ogg: "chocolatelandmusic.ogg", name: "Installation Music"},
 ];
