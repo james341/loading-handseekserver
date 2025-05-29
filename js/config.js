@@ -168,7 +168,7 @@ var l_musicVolume = 15;
 
 // Enable custom messages?
 // 'true' or 'false'
-var l_messagesEnabled = true;
+var l_messagesEnabled = false;
 
 // Enter your custom messages below
 var l_messages = [
