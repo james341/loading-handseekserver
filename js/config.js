@@ -144,8 +144,8 @@ var l_musicDisplay = true;
 var l_musicPlaylist = [
 	{ogg: "allcouldbesavedhday.ogg", name: "Installation Music"},
 	{ogg: "adventuresajhimitsu.ogg", name: "Installation Music"},
-	{ogg: "sneighbourhood.ogg", name: "Installation Music"},
-	{ogg: "heldwantedmusic.ogg", name: "Installation Music"},
+	{ogg: "fnaf2remix.ogg", name: "Installation Music"},
+	{ogg: "fnaf1remix.ogg", name: "Installation Music"},
 	{ogg: "fnafsecuritybreachmusic.ogg", name: "Installation Music"},
 	{ogg: "behindtheslaughteremix.ogg", name: "Installation Music"},
 	{ogg: "snapsonhideawaykbps.ogg", name: "Installation Music"},
