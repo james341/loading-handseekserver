@@ -121,12 +121,9 @@ var l_musicDisplay = true;
 // (You can also use external URL for the ogg files)
 var l_musicPlaylist = [
 	{ogg: "freddyspoweroutsongmodifiedsprin.ogg", name: "Installation Music"},
-	{ogg: "adventuresajhimitsu.ogg", name: "Installation Music"},
 	{ogg: "fnaf2remix.ogg", name: "Installation Music"},
-	{ogg: "fnaf1remix.ogg", name: "Installation Music"},
 	{ogg: "thefthomer.ogg", name: "Installation Music"},
 	{ogg: "behindtheslaughteremix.ogg", name: "Installation Music"},
-	{ogg: "thepizzeriashitmusicai.ogg", name: "Installation Music"},
 	{ogg: "heldwantedmusic.ogg", name: "Installation Music"},
 	{ogg: "Incredibleagain.ogg", name: "Installation Music"},
 	{ogg: "chocolatelandmusic.ogg", name: "Installation Music"},
