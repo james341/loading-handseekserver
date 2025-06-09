@@ -85,7 +85,6 @@ var l_bgImages = [
 	"image11.jpg",
 	"image12.jpg",
 	"image13.jpg",
-	"image14.jpg",
 
 ];
 
@@ -127,7 +126,6 @@ var l_musicDisplay = true;
 var l_musicPlaylist = [
 	{ogg: "freddyspoweroutsongmodifiedsprin.ogg", name: "Installation Music"},
 	{ogg: "cheapshop.ogg", name: "Installation Music"},
-	{ogg: "fnaf2remix.ogg", name: "Installation Music"},
 	{ogg: "suburbanteam.ogg", name: "Installation Music"},
 	{ogg: "thefthomer.ogg", name: "Installation Music"},
 	{ogg: "behindtheslaughteremix.ogg", name: "Installation Music"},
